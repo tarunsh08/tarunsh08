@@ -1,5 +1,5 @@
-# Hey There💫:
-I am a full stack dev || Learning and Implementing AI in my projects.
+# Hey There 🙋‍♂:
+I am a Full-Stack Developer | Bridging Web Dev & AI for Next-Gen Apps
 
 
 ## 🌐 Socials:
