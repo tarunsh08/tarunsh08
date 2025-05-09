@@ -1,5 +1,5 @@
-# 💫 About Me:
-Im currently working on a component library that consists a next.js documentation chatbot.<br>Im looking to collab on full stack projects<br>Im looking to help with my career growth in my field and explore the world of AI<br>Im currently learning Gen AI and stuff consisting AI and dev<br>Fun fact: I cant sleep without listening to something through my hedphones
+# Hey There💫:
+I am a full stack dev || Learning and Implementing AI in my projects.
 
 
 ## 🌐 Socials:
