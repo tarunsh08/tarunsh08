@@ -1,7 +1,7 @@
 # Hey There 🙋‍♂:
 I am a Full-Stack Developer | Bridging Web Dev & AI for Next-Gen Apps
 
-https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajR1YWVxdGE1dzVrMGNydmMyc3Y1NXIyZm9sYXBlczBiajJmMjZxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajR1YWVxdGE1dzVrMGNydmMyc3Y1NXIyZm9sYXBlczBiajJmMjZxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_txrun_sh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tarun-sharma-a0a5552b4) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TarunSharm202) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tarunsharma08.com@gmail.com) 
